@@ -65,7 +65,7 @@
     transform: scale(1.1);
 }
 
-#start {
+#start, #pauseBtn {
     background-color: #175cff;
     color: #fff;
 }
@@ -73,4 +73,5 @@
 #pauseBtn,
 #continueBtn {
     display: none;
+    
 }
