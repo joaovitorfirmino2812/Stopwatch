@@ -65,7 +65,7 @@
     transform: scale(1.1);
 }
 
-#start, #pauseBtn {
+#start, #pauseBtn, #continueBtn {
     background-color: #175cff;
     color: #fff;
 }
